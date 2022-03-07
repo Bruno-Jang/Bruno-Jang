@@ -4,7 +4,7 @@
 <h3 align="center">
     🛠 Tech Stack 🛠
 </h3>
-#E0234E
+
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
