@@ -6,11 +6,10 @@
 </h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/Python-ffde57?style=flat&logo=Python&logoColor=4584b6"/>
-  <img src="https://img.shields.io/badge/Django-white?style=flat&logo=Django&logoColor=092E20"/>
+  <img src="https://img.shields.io/badge/Python-ffde57?style=flat&logo=Python&logoColor=4584b6"/></a> &nbsp
+  <img src="https://img.shields.io/badge/Django-white?style=flat&logo=Django&logoColor=092E20"/></a> &nbsp
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/>
 </div>
