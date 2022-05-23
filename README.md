@@ -8,8 +8,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-ffde57?style=flat&logo=Python&logoColor=4584b6"/></a> &nbsp
   <img src="https://img.shields.io/badge/Django-white?style=flat&logo=Django&logoColor=092E20"/></a> &nbsp
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 </div>
 
